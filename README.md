@@ -1,4 +1,4 @@
-# Unidad2-Proyecto# ProyectodeUnidad2
+# Unidad2-Proyecto
 grupo 3 FLOR MEZA - KEILA BERECHE
 ## Identificacion de usuario
 Los principales usuarios de este proyecto enigma seran para conversaciones secretas entre mejores amig@s 
